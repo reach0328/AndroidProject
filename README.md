@@ -1,5 +1,4 @@
-# **AndroidProject**
-## **[AndroidSchol with FastCampers](https://github.com/reach0328/androidschool)**
+# **AndroidProject** ## **[AndroidSchol with FastCampers](https://github.com/reach0328/androidschool)**
 
 -------------------------------------------------------
 
