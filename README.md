@@ -40,12 +40,20 @@
 
 
 ##**[ListView](https://github.com/reach0328/BasicList)**
-#### ListView를 여러가지 형태로 접근하며 
-> -
+#### ListView를 여러가지 형태로 접근 및 최적화
+> - ListView
+> - RecyclerView
+> - CardView
+> - ViewHolder
 
 
 ##**[MusicPlayer](https://github.com/reach0328/MusicPlayer)**
 #### RecycleView를 통하여 간단한 MusicPlayer
+
+> - Permission
+> - Content Resolver
+> - ViewPager
+> - Glide
 > - SOLID 적용
 > - Transpomer 효과 적용
 
@@ -53,20 +61,34 @@
 
 ##**[Utility](https://github.com/reach0328/Utility)**
 #### 계산기, 단위 변환기, Web, 지도(현재 위치 불러오기)
-> -
-
+> - GoogleMap API
+> - Alert Dialog
+> - Fragment Tab
+> - GPS
+> - Inflater
+> - Context
 
 
 ##**[DesignPatterns](https://github.com/reach0328/DesignPatterns)**
 #### Java를 통한 다양한 Design Pattern 접근
-> -
+> - GOF Design Patterns
+> - SingleTon
+> - MultiTon
+> - Proxy
+> - Decorator
+> - TemplateMethod
+> - FactoryMethod
+> - Strategy
+> - Callback
+> - Observer
 
 
 
 ##**[CameraBasic](https://github.com/reach0328/CameraBasic)**
 #### 카메라와 갤러리에서 선택한 사진을 ImageView에 보여줍니다.
-> -
-
+> - Nougat Version
+> - Gallery
+> - Camera
 
 
 
