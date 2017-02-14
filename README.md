@@ -60,7 +60,7 @@
 
 
 ##**[Utility](https://github.com/reach0328/Utility)**
-#### 계산기, 단위 변환기, Web, 지도(현재 위치 불러오기)
+#### 계산기, 단위 변환기, Web, 지도(현재 위치 불러오기) // 카메라 기능 추가
 > - GoogleMap API
 > - Alert Dialog
 > - Fragment Tab
@@ -89,6 +89,12 @@
 > - Nougat Version
 > - Gallery
 > - Camera
+
+##**[Memo](https://github.com/reach0328/MemoBasic)**
+#### Database를 이용하여 간단한 메모 
+> - Database
+> - ORMLite
+> - SQLLite
 
 
 
