@@ -90,11 +90,13 @@
 > - Gallery
 > - Camera
 
-##**[Memo](https://github.com/reach0328/MemoBasic)**
+##**[Memo](https://github.com/reach0328/SelfMemo)**
 #### Database를 이용하여 간단한 메모 
 > - Database
 > - ORMLite
 > - SQLLite
+> - Floatting Button
+> - Alert Dialog
 
 
 
